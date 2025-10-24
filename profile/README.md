@@ -1,67 +1,96 @@
-# 🎨 SPECTRA Design
+<!-- ====================================================== -->
+<!--  🎨  SPECTRA DESIGN  —  The Experience of the Cosmos -->
+<!-- ====================================================== -->
 
-**The Creative Heart of the SPECTRA Cosmos**
+<h1 align="center">🎨 SPECTRA Design</h1>
+<p align="center"><em>The Experience of the SPECTRA Cosmos</em></p>
 
----
+<!-- 🌌 Navigation -->
+<p align="center" style="margin-bottom: 0.2rem;">
+  <a href="https://github.com/SPECTRACoreSolutions" style="font-weight:bold; font-size: 1.05em;">🌐 Core</a>
+</p>
 
-## 🧭 Purpose
+<p align="center" style="margin-top: 0.2rem;">
+  <a href="https://github.com/SPECTRADataSolutions">📊 Data</a> •
+  <a href="https://github.com/SPECTRADesignSolutions">🎨 Design</a> •
+  <a href="https://github.com/SPECTRAEngagementSolutions">💬 Engagement</a> •
+  <a href="https://github.com/SPECTRAEngineeringSolutions">⚙️ Engineering</a> •
+  <a href="https://github.com/SPECTRAMediaSolutions">🎬 Media</a> •
+  <a href="https://github.com/SPECTRASecuritySolutions">🛡 Security</a>
+</p>
 
-**SPECTRA Design** gives the Cosmos its form and feeling.  
-It translates philosophy and data into experience — shaping the visuals, motion, and interfaces that express SPECTRA’s precision and personality.
+<hr style="width:60%;border:0.5px solid #1E90FF;margin:1rem auto;opacity:0.4;">
 
-Every pixel, curve, and interaction follows the same principle as every pipeline:  
-structured, intentional, and reproducible.
-
----
-
-## 🧩 Responsibilities
-
-- **Brand Identity** — design systems, logos, palettes, and Spectra-grade UI components.  
-- **User Experience** — layout architecture, accessibility, and motion principles.  
-- **Creative Production** — artwork, templates, presentations, and multimedia assets.  
-- **Collaboration** — integration with Audio and Data for cohesive, cross-sensory design.  
-
----
-
-## ⚙️ Design Repositories
-
-| Repository | Purpose |
-|-------------|----------|
-| **foundation** | Core brand identity, fonts, and design language. |
-| **templates** | Presentation, document, and motion-graphics templates. |
-| **assets** | Logos, icons, and visual elements for use across the Cosmos. |
-| **adobe** | Linked Adobe Creative Cloud projects and library synchronisation. |
-| **operations** | Automation for versioning, export, and GitHub integration. |
+<p align="center">
+  <img src="https://img.shields.io/badge/Identity-Active-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System-Adobe%20Creative%20Cloud-FFB6C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Live-20C997?style=for-the-badge" />
+</p>
 
 ---
 
-## 🔗 Navigation
-
-### 🏠 Enterprise
-
-[**SPECTRA Cosmos – Enterprise Home**](https://github.com/enterprises/spectraCosmos)
-
----
-
-### 🌌 Organisations
-
-- [**SPECTRA Core**](https://github.com/SPECTRACoreSolutions)  
-- [**SPECTRA Data**](https://github.com/SPECTRADataSolutions)  
-- [**SPECTRA Design**](https://github.com/SPECTRADesignSolutions)  
-- [**SPECTRA Security**](https://github.com/SPECTRASecuritySolutions)  
-- [**SPECTRA Audio**](https://github.com/SPECTRAAudioSolutions)  
-- [**SPECTRA Engineering**](https://github.com/SPECTRAEngineeringSolutions)  
-- [**SPECTRA Engagement**](https://github.com/SPECTRAEngagementSolutions)
+<!-- 🧊 Domain Geometry -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SPECTRADesignSolutions/library/refs/heads/main/geometry/spectra-cube.svg?token=GHSAT0AAAAAADGNO2574KDNN2KIS2EGY2HQ2H2ZUFA"
+       width="45%" alt="SPECTRA Cube — Core Geometry"><br>
+  <em>The spectral cube — where structure becomes visible through form and motion.</em>
+</p>
 
 ---
 
-## 🔭 Philosophy
+<h2 align="center">🧭 Purpose</h2>
 
-Design is logic expressed through aesthetics.  
-It is the bridge between form and function — between what SPECTRA builds and how people feel it.  
-Where Data speaks in patterns and Core in rules, Design speaks in emotion, guiding perception through structure.
+<p align="center">
+  <strong>SPECTRA Design</strong> defines the aesthetic and behavioural systems of the Cosmos.  
+  It ensures beauty obeys logic — that every line, colour, and animation supports clarity and comprehension.
+</p>
 
 ---
 
-[www.spectradatasolutions.com](https://www.spectradatasolutions.com)  
-_© SPECTRA Design Solutions — Part of the SPECTRA Cosmos_
+<h2 align="center">📈 Domain Progress</h2>
+
+<div align="center">
+
+| Phase | Objective | Status | % |
+|-------|------------|---------|---|
+| **Brand System** | Logo, Palette, Typography | ✅ Complete | 100 |
+| **Templates** | Presentations + Docs | 🟢 Active | 80 |
+| **UX Canon** | Design Rules + Components | 🟡 In Progress | 60 |
+| **Motion Library** | Animated Assets + Guidelines | ⚪ Planned | 30 |
+
+</div>
+
+---
+
+<h2 align="center">🧩 Responsibilities</h2>
+
+<p align="center">
+  • <strong>Identity</strong> — brand systems, palette, typography.<br>
+  • <strong>Structure</strong> — grid, hierarchy, visual rhythm.<br>
+  • <strong>Experience</strong> — motion, transitions, and clarity.
+</p>
+
+---
+
+<h2 align="center">🔮 Manifesto</h2>
+
+<p align="center">
+  <em>
+  Design reveals logic through form.<br>
+  Simplicity is the highest expression of intelligence.<br>
+  SPECTRA Design turns complexity into elegance.
+  </em>
+</p>
+
+---
+
+<div align="center">
+  <p><em>Last updated: 2025-10-24</em></p>
+  <p><strong>Maintained by the SPECTRA Design Team</strong></p>
+
+  <a href="https://www.spectradatasolutions.com">
+    <img src="https://img.shields.io/badge/Website-spectradatasolutions.com-1E90FF?style=for-the-badge" />
+  </a>
+  <br>
+  <em>© SPECTRA Data Solutions Ltd — Design Domain Document</em>
+</div>
