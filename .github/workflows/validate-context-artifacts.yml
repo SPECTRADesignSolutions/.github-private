@@ -1,0 +1,26 @@
+name: Validate Context Artifacts
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validateContext:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate context graph and index
+        run: python scripts/context/generate_context.py
+      - name: Ensure context artifacts committed
+        run: |
+          git status --short
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Context files are not up to date. Run python scripts/context/generate_context.py and commit changes."
+            git diff
+            exit 1
+          fi

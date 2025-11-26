@@ -1,0 +1,27 @@
+meta:
+  repo: ".github-private"
+  generatedAt: "2025-11-26T17:41:15.539440"
+  generatedBy: "context-generator v0.1"
+nodes:
+  -
+    id: ".github-private:workflow:validate-context-artifacts"
+    title: "Workflow: Validate Context Artifacts"
+    type: workflow
+    path: ".github/workflows/validate-context-artifacts.yml"
+    summary: GitHub Actions workflow
+    owner: ".github-private team"
+    freshness: "2025-11-26T17:41:15.477623"
+    tags:
+      - workflow
+      - ci
+  -
+    id: ".github-private:secrets-refs"
+    title: Secret references
+    type: "secrets-refs"
+    path: 
+    summary: "Files referencing credentialRef/vault: scripts/context/generate_context.py"
+    owner: ".github-private team"
+    freshness: "2025-11-26T17:41:15.539440"
+    tags:
+      - secrets
+      - "static-scan"
